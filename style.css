@@ -1,0 +1,18 @@
+body{
+    background-image: url('https://cutewallpaper.org/21/family-wallpaper-background/textures-gaussian-blur-fresh-new-hd-wallpaper-Family-.jpg');
+    background-size: cover;
+    color: cyan;
+}
+.heading{
+    width: 80%;
+    font-size: 20 px;
+}
+#camera{
+    border: darkgray 2px dashed;
+    width: 350px;
+    height: 300px;
+
+}
+.nameofobjects,#objectName,#objectAcc{
+    color: chartreuse;
+}
